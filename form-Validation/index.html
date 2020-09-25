@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Form Validation</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" media="screen" href="index.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <div class="container">
+      <form class="form" id="form">
+        <h2>Registration</h2>
+        <div class="form-control">
+          <label for="username"><b>Username</b></label>
+          <input type="text" id="username" placeholder="Enter Username" />
+          <small><b>Error message</b></small>
+        </div>
+        <div class="form-control">
+          <label for="email"><b>Email</b></label>
+          <input type="email" id="email" placeholder="Enter Email" />
+          <small><b>Error message</b></small>
+        </div>
+        <div class="form-control">
+          <label for="password"> <b> Password</b></label>
+          <input type="password" id="password" placeholder="Enter Password" />
+          <small><b>Error message</b></small>
+        </div>
+        <div class="form-control">
+          <label for="password2"><b>Confirm Password</b></label>
+          <input
+            type="password"
+            id="password2"
+            placeholder="Ente password again"
+          />
+          <small><b>Error message</b></small>
+        </div>
+        <button>Submit</button>
+      </form>
+    </div>
+    <script src="index.js"></script>
+  </body>
+</html>
