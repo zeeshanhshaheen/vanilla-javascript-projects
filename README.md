@@ -204,7 +204,7 @@
       
  
   ## Memory Cards
-![alt text](https://github.com/zeeshanhshaheen/vanilla-javascript-projects/blob/master/images/speech.PNG)
+![alt text](https://github.com/zeeshanhshaheen/vanilla-javascript-projects/blob/master/images/memory.PNG)
 
 <br />
 <br />
