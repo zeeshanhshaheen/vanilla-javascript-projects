@@ -1,6 +1,8 @@
 
 <p align="center">
   <h1 align="center">:computer: Vanilla JavaScript Projects :computer:</h1>
+  <br />
+  <p align="center"> :sparkles: 20+ mini projects using HTML5, CSS & JavaScript. No frameworks, no libraries. :sparkles:</p>
   <p align="center">
     <br />
     <strong>Explore the projects »</strong>
@@ -20,6 +22,18 @@
 * [Menu Slider](#menu-slider)
 * [Hangman Game](#hangman-game)
 * [Meal Finder](#meal-finder)
+* [Expense Tracker](#expense-tracker)
+* [Music Player](#music-player)
+* [Infinite Scrolling](#infinite-scrolling)
+* [Typing Game](#typing-game)
+* [Speech Text Reader](#speech-text-reader)
+* [Memory Cards](#memory-cards)
+* [Lyrics Search App](#lyrics-search-app)
+* [Relexar App](#relexar-app)
+* [Breakout Game](#breakout-game)
+* [New Year Countdown](#new-year-countdown)
+* [Sortable List](#sortable-list)
+* [Speak Number Guessing Game](#speak-number-guessing-game)
 <br />
 <br />
 
@@ -79,9 +93,9 @@
 <br />
 
 
-<p align="center" Project to learn high order array methods and DOM manipulation. Used forEach() to loop and output user/wealth. Used map() to double wealth. Used filter() to filter only millionaires. Used sort() to sort by wealth. Used reduce() to add all wealth.</p>
+<p align="center">Project to learn high order array methods and DOM manipulation. Used forEach() to loop and output user/wealth. Used map() to double wealth. Used filter() to filter only millionaires. Used sort() to sort by wealth. Used reduce() to add all wealth.</p>
 <p align="center">
-<a href="https://wealthcalculator.netlify.app/">Explore Exchange Rate Calculator</a>
+<a href="https://wealthcalculator.netlify.app/">Explore Wealth Calculator</a>
 </p>
                                                
  
@@ -93,9 +107,9 @@
 <br />
 
 
-<p align="center" Simple landing page with sliding menu and modal. Created and style landing page. Style side nav and modal. Added functionality to make menu open/close on button click. Added functionality to make modal open/close on button click.</p>
+<p align="center">Simple landing page with sliding menu and modal. Created and style landing page. Style side nav and modal. Added functionality to make menu open/close on button click. Added functionality to make modal open/close on button click.</p>
 <p align="center">
-<a href="https://menuslider.netlify.app/">Explore Exchange Rate Calculator</a>
+<a href="https://menuslider.netlify.app/">Explore Menu Slider</a>
 </p>
 
  ## Hangman Game
@@ -105,9 +119,9 @@
 <br />
 
 
-<p align="center" Select a letter to figure out a hidden word in a set amount of chances.</p>
+<p align="center">Select a letter to figure out a hidden word in a set amount of chances.</p>
 <p align="center">
-<a href="https://hangamngame.netlify.app/">Explore Exchange Rate Calculator</a>
+<a href="https://hangamngame.netlify.app/">Explore Hangman Game</a>
 </p>
 
 
@@ -118,9 +132,162 @@
 <br />
 
 
-<p align="center" Search and generate random meals from the themealdb.com API.</p>
+<p align="center">Search and generate random meals from the themealdb.com API.</p>
 <p align="center">
-<a href="https://findyourmealreciepi.netlify.app/">Explore Exchange Rate Calculator</a>
+<a href="https://findyourmealreciepi.netlify.app/">Explore Meal Finder</a>
 </p>
-                                             
+
+
+ ## Expense Tracker
+![alt text](https://github.com/zeeshanhshaheen/vanilla-javascript-projects/blob/master/images/expense2.PNG)
+
+<br />
+<br />
+
+
+<p align="center">Keep track of income and expenses. Add and remove items and save to local storage.</p>
+<p align="center">
+<a href="https://track-yourexpense.netlify.app/">Explore Expense Tracker</a>
+</p>
+
+
+ ## Music Player
+![alt text](https://github.com/zeeshanhshaheen/vanilla-javascript-projects/blob/master/images/music2.PNG)
+
+<br />
+<br />
+
+
+<p align="center">Create beautiful UI to play music stored in the "music folder" using the HTML5 audio API.</p>
+<p align="center">
+<a href="https://track-yourexpense.netlify.app/">Explore Music Player</a>
+</p>
+
+
+ ## Infinite Scrolling
+![alt text](https://github.com/zeeshanhshaheen/vanilla-javascript-projects/blob/master/images/blog2.PNG)
+
+<br />
+<br />
+
+
+<p align="center">Display blog posts from jsonplaceholder and add infinite scroll to fetch posts and also add filter box.</p>
+<p align="center">
+<a href="https://infinitescrollingapp.netlify.app/">Explore Infinite Scrolling</a>
+</p>
+
+
+ ## Typing Game
+![alt text](https://github.com/zeeshanhshaheen/vanilla-javascript-projects/blob/master/images/typing2.PNG)
+
+<br />
+<br />
+
+
+<p align="center">Game to beat the clock by typing random words.</p>
+<p align="center">
+<a href="https://typin-game.netlify.app/">Explore Typing Game</a>
+</p>
+
+
+ ## Speech Text Reader
+![alt text](https://github.com/zeeshanhshaheen/vanilla-javascript-projects/blob/master/images/speech.PNG)
+
+<br />
+<br />
+
+
+<p align="center">A text to speech app for non-verbal people. Pre-made buttons and custom text speech. This project uses the Web Speech API.</p>
+<p align="center">
+<a href="https://speechtext-reader.netlify.app/">Explore Speech Text Reader</a>
+</p>
+      
  
+  ## Memory Cards
+![alt text](https://github.com/zeeshanhshaheen/vanilla-javascript-projects/blob/master/images/speech.PNG)
+
+<br />
+<br />
+
+
+<p align="center">Flash card app for learning. Display, add and remove memory cards with questions and answers.</p>
+<p align="center">
+<a href="https://memorycards-game.netlify.app/">Explore Memory Cards</a>
+</p>
+
+
+  ## Lyrics Search App
+![alt text](https://github.com/zeeshanhshaheen/vanilla-javascript-projects/blob/master/images/lyrics2.PNG)
+
+<br />
+<br />
+
+
+<p align="center">Find songs, artists and lyrics using the lyrics.ovh API.</p>
+<p align="center">
+<a href="https://lyricsearchapp.netlify.app/">Explore Lyrics Search App</a>
+</p>
+
+
+  ## Relexar App
+![alt text](https://github.com/zeeshanhshaheen/vanilla-javascript-projects/blob/master/images/relexar2.PNG)
+
+<br />
+<br />
+
+
+<p align="center">A relaxing breathing app with a visual director to tell you when to breathe in, hold and breathe out.</p>
+<p align="center">
+<a href="https://relexarapp.netlify.app/">Explore Relexar App</a>
+</p>
+
+  ## Breakout Game
+![alt text](https://github.com/zeeshanhshaheen/vanilla-javascript-projects/blob/master/images/breakout2.PNG)
+
+<br />
+<br />
+
+
+<p align="center">Game where you control a paddle with the arrow keys to bounce a ball up to break bricks. This app uses the HTML5 canvas element and API.</p>
+<p align="center">
+<a href="https://breakout-ball-game.netlify.app/">Explore Breakout Game</a>
+</p>
+
+
+  ## New Year Countdown
+![alt text](https://github.com/zeeshanhshaheen/vanilla-javascript-projects/blob/master/images/newyear2.PNG)
+
+<br />
+<br />
+
+
+<p align="center">Landing page that counts down from the current date to the next new year.</p>
+<p align="center">
+<a href="https://newyearcountdown-clock.netlify.app/">Explore New Year Countdown</a>
+</p>
+
+
+  ## Sortable List
+![alt text](https://github.com/zeeshanhshaheen/vanilla-javascript-projects/blob/master/images/scrollable2.PNG)
+
+<br />
+<br />
+
+
+<p align="center">Display a scrambled list that can be sorted with drag and drop.</p>
+<p align="center">
+<a href="https://sortable-listapp.netlify.app/">Explore Sortable List</a>
+</p>
+ 
+ 
+   ## Speak Number Guessing Game
+![alt text](https://github.com/zeeshanhshaheen/vanilla-javascript-projects/blob/master/images/microphone.PNG)
+
+<br />
+<br />
+
+
+<p align="center">Number guessing game where you speak your guess into the microphone using the speech recognition API.</p>
+<p align="center">
+<a href="https://numbers-guessing-game.netlify.app/">Explore Speak Number Guessing Game</a>
+</p>
