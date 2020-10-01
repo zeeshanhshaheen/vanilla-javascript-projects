@@ -15,6 +15,7 @@
 * [Form Validator](#form-validator)
 * [Movie Seat Booking App](#movie-seat-booking-app)
 * [Video Player](#video-player)
+* [Exchange Rate Calculator](#exchange-rate-calculator)
 
 <br />
 <br />
@@ -53,6 +54,18 @@
 
 <p align="center">Custom video player using the HTML5 video element and it's JavaScript API with a custom design. It contains Play/pause, Stop, Video progress bar, progress bar time features.</p>
 <p align="center">
-<a href="https://customvideo-player.netlify.app/">Explore Movie Seat Booking</a>
+<a href="https://customvideo-player.netlify.app/">Explore Video Player</a>
+</p>
+
+## Exchange Rate Calculator
+![alt text](https://github.com/zeeshanhshaheen/vanilla-javascript-projects/blob/master/images/exchange2.PNG)
+
+<br />
+<br />
+
+
+<p align="center">Select countries to get the exchange rate for a specific amount.Display UI with 2 select lists for countries and 2 inputs for amounts. Display the values for both countries.</p>
+<p align="center">
+<a href="https://moneyexchangerate.netlify.app/">Explore Exchange Rate Calculator</a>
 </p>
  
