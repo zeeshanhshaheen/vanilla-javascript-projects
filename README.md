@@ -8,7 +8,7 @@
     <strong>Explore the projects »</strong>
     <br />
     <br />
-    <a href="https://vanilla-javascript-projects.netlify.app/">Visit Projects Website</a>
+    <a href=https://javascript-mini-projects.netlify.app/">Visit Projects Website</a>
   </p>
 </p>
 
