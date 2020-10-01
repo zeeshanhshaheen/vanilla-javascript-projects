@@ -1,6 +1,4 @@
 
-[![Forks][forks-shield]][forks-url]
-<br />
 <p align="center">
   <h1 align="center">:computer: Vanilla JavaScript Projects :computer:</h1>
   <br />
