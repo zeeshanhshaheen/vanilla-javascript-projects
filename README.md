@@ -16,7 +16,10 @@
 * [Movie Seat Booking App](#movie-seat-booking-app)
 * [Video Player](#video-player)
 * [Exchange Rate Calculator](#exchange-rate-calculator)
-
+* [Wealth Calculator](#wealth-calculator)
+* [Menu Slider](#menu-slider)
+* [Hangman Game](#hangman-game)
+* [Meal Finder](#meal-finder)
 <br />
 <br />
 
@@ -68,4 +71,56 @@
 <p align="center">
 <a href="https://moneyexchangerate.netlify.app/">Explore Exchange Rate Calculator</a>
 </p>
+
+## Wealth Calculator
+![alt text](https://github.com/zeeshanhshaheen/vanilla-javascript-projects/blob/master/images/DOM2.PNG)
+
+<br />
+<br />
+
+
+<p align="center" Project to learn high order array methods and DOM manipulation. Used forEach() to loop and output user/wealth. Used map() to double wealth. Used filter() to filter only millionaires. Used sort() to sort by wealth. Used reduce() to add all wealth.</p>
+<p align="center">
+<a href="https://wealthcalculator.netlify.app/">Explore Exchange Rate Calculator</a>
+</p>
+                                               
+ 
+ 
+ ## Menu Slider
+![alt text](https://github.com/zeeshanhshaheen/vanilla-javascript-projects/blob/master/images/slider4.PNG)
+
+<br />
+<br />
+
+
+<p align="center" Simple landing page with sliding menu and modal. Created and style landing page. Style side nav and modal. Added functionality to make menu open/close on button click. Added functionality to make modal open/close on button click.</p>
+<p align="center">
+<a href="https://menuslider.netlify.app/">Explore Exchange Rate Calculator</a>
+</p>
+
+ ## Hangman Game
+![alt text](https://github.com/zeeshanhshaheen/vanilla-javascript-projects/blob/master/images/hangman2.PNG)
+
+<br />
+<br />
+
+
+<p align="center" Select a letter to figure out a hidden word in a set amount of chances.</p>
+<p align="center">
+<a href="https://hangamngame.netlify.app/">Explore Exchange Rate Calculator</a>
+</p>
+
+
+ ## Meal Finder 
+![alt text](https://github.com/zeeshanhshaheen/vanilla-javascript-projects/blob/master/images/meal2.PNG)
+
+<br />
+<br />
+
+
+<p align="center" Search and generate random meals from the themealdb.com API.</p>
+<p align="center">
+<a href="https://findyourmealreciepi.netlify.app/">Explore Exchange Rate Calculator</a>
+</p>
+                                             
  
