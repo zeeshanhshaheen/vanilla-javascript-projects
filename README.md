@@ -1,4 +1,6 @@
 
+[![Forks][forks-shield]][forks-url]
+<br />
 <p align="center">
   <h1 align="center">:computer: Vanilla JavaScript Projects :computer:</h1>
   <br />
@@ -291,3 +293,9 @@
 <p align="center">
 <a href="https://numbers-guessing-game.netlify.app/">Explore Speak Number Guessing Game</a>
 </p>
+
+
+## Contact
+
+Zeeshan Haider Shaheen - [@zeeshanhshaheen](https://twitter.com/zeeshanhshaheen) 
+
