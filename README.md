@@ -14,6 +14,7 @@
 
 * [Form Validator](#form-validator)
 * [Movie Seat Booking App](#movie-seat-booking-app)
+* [Video Player](#video-player)
 
 <br />
 <br />
@@ -41,5 +42,17 @@
 <p align="center">Display movie choices and seats in a theater to select from in order to purchase tickets. User can select a movie/price. User can select/deselect seats. Save seats, movie and price to local storage so that UI is still populated on refresh.</p>
 <p align="center">
 <a href="https://seatbookingapp.netlify.app/">Explore Movie Seat Booking</a>
+</p>
+
+## Video Player
+![alt text](https://github.com/zeeshanhshaheen/vanilla-javascript-projects/blob/master/images/videoplayer.PNG)
+
+<br />
+<br />
+
+
+<p align="center">Custom video player using the HTML5 video element and it's JavaScript API with a custom design. It contains Play/pause, Stop, Video progress bar, progress bar time features.</p>
+<p align="center">
+<a href="https://customvideo-player.netlify.app/">Explore Movie Seat Booking</a>
 </p>
  
